@@ -4,6 +4,7 @@ Worked under professor Gopi Ragupathy in his PRP chemistry lab to automate titer
 
 - Download the video title `June 25, 2021.mp4` as this is the sample video used for titeration level detection
 - To run the code please use the command below
+- ensure that openCV is installed on your system
 ```
 python3 testing_frames.py -s file -f "/home/<username>/Downloads/June 25, 2021.mp4"
 ```
