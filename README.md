@@ -2,6 +2,11 @@
 
 Worked under prof Gopi Ragupathy in his chemistry lab to automate titeration using openCV and to deploy it on a open source embedded micro-controller called raspberry pi and then later we deployed the image processing based on HSV on jetson nano 2gb variant GPU for better performance.
 
+- To run the code please use the command below
+```
+python3 testing_frames.py -s file -f "/home/<username>/Downloads/June 25, 2021.mp4"
+```
+
 # On raspberry pi 3b
 
 ![image](https://github.com/s0um0r0y/Automatic_Titration/assets/75070782/57b09059-affc-4b2e-a11d-6085ec70e2a7)
